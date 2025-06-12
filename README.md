@@ -232,10 +232,10 @@ This end-to-end BI system bridges the gap between raw data and informed decision
 
 For easy navigation, the dashboard includes interactive buttons that link across the suite:
 
-- 🔄 **[📌 Project Overview](#project-overview)** – High-level summary of all key KPIs  
-- 👤 **[🔹 2. Sales Performance Dashboard](#1-user-engagement-dashboard)** – Tracks user activity and demographics  
-- 🏙️ **[🔹 3. City Analytics Dashboard](#3-city-analytics-dashboard)** – Breaks down city-level metrics and growth  
-- ℹ️ **[ℹ️ About Page](#about-page)** – Current section
+- 🔄 **[Project Overview](#project-overview)** – High-level summary of all key KPIs  
+- 👤 **[User Performance Dashboard](#1-user-engagement-dashboard)** – Tracks user activity and demographics  
+- 🏙️ **[City Sales Analytics Dashboard](#3-city-analytics-dashboard)** – Breaks down city-level metrics and growth  
+- ℹ️ **[ℹAbout Page](#about-page)** – Current section
 
 These buttons are configured using **Power BI bookmarks**, ensuring seamless interactivity and report storytelling.
 
