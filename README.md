@@ -87,6 +87,7 @@ This dashboard provides an in-depth analysis of **Zomato's user base**, helping 
 
 ---
 
+
 ### 🔹 2. Sales Performance Dashboard  
 ![Sales Dashboard](Images/City_Sales.png)
 This dashboard focuses on **revenue performance and product demand**, segmented by time, region, and food category.
@@ -208,6 +209,7 @@ Dive deep into **geographic performance insights**, helping Zomato understand re
 
 ---
 
+ 
 ## ℹ️ About Page
 
 ### 📋 What is this Project About?
@@ -230,10 +232,10 @@ This end-to-end BI system bridges the gap between raw data and informed decision
 
 For easy navigation, the dashboard includes interactive buttons that link across the suite:
 
-- 🔄 **[Overview](#project-overview)** – High-level summary of all key KPIs  
-- 👤 **[User Engagement Dashboard](#1-user-engagement-dashboard)** – Tracks user activity and demographics  
-- 🏙️ **[City Sales Performance](#3-city-analytics-dashboard)** – Breaks down city-level metrics and growth  
-- ℹ️ **[About Page](#about-page)** – Current section
+- 🔄 **[📌 Project Overview](#project-overview)** – High-level summary of all key KPIs  
+- 👤 **[🔹 2. Sales Performance Dashboard](#1-user-engagement-dashboard)** – Tracks user activity and demographics  
+- 🏙️ **[🔹 3. City Analytics Dashboard](#3-city-analytics-dashboard)** – Breaks down city-level metrics and growth  
+- ℹ️ **[ℹ️ About Page](#about-page)** – Current section
 
 These buttons are configured using **Power BI bookmarks**, ensuring seamless interactivity and report storytelling.
 
@@ -252,9 +254,16 @@ Whether you're a **product head**, **marketing strategist**, or **regional manag
 
 ---
 
-### 💡 One Powerful Line:
-**“Transforming raw data into restaurant-ready revenue strategies – one click at a time.”**
+### 💡 Why This Project Helpful:
 
+**"Turning food delivery data into intelligent decisions—faster, sharper, smarter."**
+**"Where real-time insights meet restaurant success."**
+**"From SQL to sales strategy—your data, served hot."**
+**"Delivering data-driven decisions for every bite."**
+**"Powering Zomato’s future with every data point."**
+**"Feeding business growth through live analytics."**
+**One dashboard. Infinite decisions. Real-time power."**
+**"Transforming live data into high-impact restaurant intelligence."**
 
 ---
 
